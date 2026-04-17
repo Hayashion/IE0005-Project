@@ -19,8 +19,13 @@ Source: https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-datase
 #### Since the problem to predict whether an individual has Alzheimer's Disease (True or false) is clearly defined, and that medical data is often complex with a mixture of multiple variables of different class (multi-class and multi-variate), machine learning models (especially neural network - something new we learnt) would be suited in solving this problem.
 
 Work distribution:
+
 Hudson - Data cleaning + Data analysis + some of metrics + Conclusion
+
 Jia Wei - Metrics + Decision tree + Gradient boost
+
 Anu - Random Forest
+
 Randall - Neural Network/MLP
+
 Everyone - Debugging code
